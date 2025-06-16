@@ -48,4 +48,20 @@ This setup ensures that the cloud environment is resilient, access is strictly c
 **OUTPUT**
 
 
+![Image](https://github.com/user-attachments/assets/58e82bb4-25c2-42d9-bcff-908758eecdb1)
 
+![Image](https://github.com/user-attachments/assets/837280fc-fca7-493e-8c9d-5d572e881457)
+
+![Image](https://github.com/user-attachments/assets/f17dcd64-7958-412e-a3e6-1acf1923d3d0)
+
+![Image](https://github.com/user-attachments/assets/262fd327-e50d-43eb-9f0e-8d47416ee21b)
+
+![Image](https://github.com/user-attachments/assets/79253b43-1d81-4176-9516-c6a81cd75017)
+
+![Image](https://github.com/user-attachments/assets/5a293763-32a9-405c-8211-9020f7bde78d)
+
+![Image](https://github.com/user-attachments/assets/6a774025-da59-47a3-96ee-d34540cb2aa0)
+
+![Image](https://github.com/user-attachments/assets/d931454c-3cdf-4e8b-9570-3f4da2668f24)
+
+![Image](https://github.com/user-attachments/assets/dbd1c68b-fce1-4a01-8ada-4d5c6144158f)
